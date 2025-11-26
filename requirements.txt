@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+psycopg2-binary
+streamlit
+requests
+python-multipart
+pydantic
