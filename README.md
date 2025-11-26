@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏪 SuperShop Management System  
 A complete mini retail management system built using **FastAPI (Backend)** and **Streamlit (Frontend)**.  
 It supports full CRUD operations for **Employees**, **Products**, and **Sales** using a PostgreSQL database.
@@ -100,3 +101,7 @@ Tables used:
 # 👨‍💻 Author  
 SuperShop project created using Python, FastAPI & Streamlit.
 
+=======
+# Python-Projects
+Collection of my Python Projects
+>>>>>>> 18b8894cccaa59e60ab724eb2b1e8c8d4cf83811
